@@ -1,16 +1,15 @@
-- 👋 Hi, I’m @thannawat152005
+git- https://github.com/user/repo.git 👋 Hi, - I’m @thannawat152005
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-<!---aaa@thannawat152005/thannawat152005 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-You can only push to two types of URL addresses:
-An HTTPS URL like https://github.com/user/repo.git
+ 
+<!--- @thannawat152005/thannawat152005 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes!--->
+You can only push to two types of URLaddresses:
+An HTTPS URL like & g- https://github.com/user/repo.git
 An SSH URL, like git@github.com:user/repo.git
 Git associates a remote URL with a name, and your default remote is usually called origin.
 Git associates a remote URL with a name, and your default remote is usually called origin.
