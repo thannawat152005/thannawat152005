@@ -10,4 +10,3 @@
 thannawat152005/thannawat152005 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-[RY4M9D-VWL7R]
